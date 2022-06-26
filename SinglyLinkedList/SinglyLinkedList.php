@@ -84,7 +84,6 @@ class SinglyLinkedList
                     echo "\nPrevious node is null";
                 }
             }
-        
     }
 
     //function to print the values
